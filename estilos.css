@@ -5,3 +5,8 @@ body{
     /* Se cambia el peso de la tipografía de la letra */
     font-weight: bold;
 }
+/* Se graega una imagen  */
+img{
+    float: left;
+    margin: 30px;
+}
